@@ -6,7 +6,7 @@ jQuery(document).ready(function(){
     
       $("selector").event(function(){
         
-        $("applyed selector").function (params) 
+        $("applyed selector").function (params) ;
             
         
 
